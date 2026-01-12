@@ -1,0 +1,7 @@
+data/
+  train/
+    images/   (e.g., .png, .jpg)
+    masks/    (same filenames as images)
+  val/
+    images/
+    masks/
